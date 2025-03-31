@@ -1,0 +1,2 @@
+ALPHA_VANTAGE_BASE_URL = "https://www.alphavantage.co/query"
+TIME_SERIES_DAILY_FUNCTION = "TIME_SERIES_DAILY"
